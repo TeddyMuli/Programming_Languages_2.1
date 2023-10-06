@@ -1,3 +1,5 @@
+# Teddy Muli Ndaisi         SCT211-0023/2022
+
 import datetime
 print("****Calculator*****")
 todays_date = datetime.datetime.now()

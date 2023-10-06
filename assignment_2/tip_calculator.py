@@ -1,3 +1,5 @@
+# Teddy Muli Ndaisi         SCT211-0023/2022
+
 print("****Tip Calculator****")
 bill = int(input("Enter the bill amount > "))
 people = int(input("Enter the number of people splitting the bill > "))

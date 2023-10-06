@@ -1,3 +1,5 @@
+# Teddy Muli Ndaisi         SCT211-0023/2022
+
 year = int(input("Enter the year > "))
 
 if (year % 4 == 0):

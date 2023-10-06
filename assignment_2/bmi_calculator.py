@@ -1,3 +1,5 @@
+# Teddy Muli Ndaisi         SCT211-0023/2022
+
 print("****BMI CALCULATOR****")
 name = input("Enter your name > ")
 weight = int(input("Enter your weight in kg > "))
