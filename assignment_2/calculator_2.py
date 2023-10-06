@@ -10,7 +10,7 @@ birthdate = datetime.datetime.strptime(date_of_birth, '%d/%m/%Y')
 
 age = todays_date - birthdate
 
-years = ((age.total_seconds()) / (365.242*24*3600))
+years = ((age) / (365.242))
 years_int = int(years)
 
 months = (years - years_int) * 12
