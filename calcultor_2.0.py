@@ -42,6 +42,7 @@ def menu():
     num1 = num1[0]
     num1 = num1.strip()
 
+
     while True:
         try:
             num1 = int(num1)
